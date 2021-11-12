@@ -1,0 +1,11 @@
+N:\VB.NET\Rename Many File\Rename Many File\bin\Debug\Rename Many File.exe.config
+N:\VB.NET\Rename Many File\Rename Many File\bin\Debug\Rename Many File.exe
+N:\VB.NET\Rename Many File\Rename Many File\bin\Debug\Rename Many File.pdb
+N:\VB.NET\Rename Many File\Rename Many File\bin\Debug\Rename Many File.xml
+N:\VB.NET\Rename Many File\Rename Many File\obj\Debug\Rename Many File.vbprojResolveAssemblyReference.cache
+N:\VB.NET\Rename Many File\Rename Many File\obj\Debug\Rename_Many_File.Resources.resources
+N:\VB.NET\Rename Many File\Rename Many File\obj\Debug\Rename Many File.vbproj.GenerateResource.Cache
+N:\VB.NET\Rename Many File\Rename Many File\obj\Debug\Rename Many File.exe
+N:\VB.NET\Rename Many File\Rename Many File\obj\Debug\Rename Many File.xml
+N:\VB.NET\Rename Many File\Rename Many File\obj\Debug\Rename Many File.pdb
+N:\VB.NET\Rename Many File\Rename Many File\obj\Debug\Rename_Many_File.home.resources
